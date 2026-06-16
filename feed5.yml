@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-14T20:41:58.828847314+03:00">
+<shop>
+<name>beta-femigial_seo-d5469ea2-82b8-46e7-9958-fd8cae92dd39</name>
+<company/>
+<url>https://femigial_seo.dev.yastore.yandex.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Категория 1-го уровня</category>
+<category id="2">All</category>
+<category id="3">товары для красоты / средства и предметы гигиены / средства для интимной гигиены</category>
+<category id="4">Не указана</category>
+<category id="5" parentId="10">Гели</category>
+<category id="6" parentId="11">Гели для зубов/десен</category>
+<category id="7" parentId="12">Лубриканты</category>
+<category id="8" parentId="13">Экстракты пищевые растительные</category>
+<category id="9" parentId="10">Кремы</category>
+<category id="10">Красота</category>
+<category id="11">Здоровье</category>
+<category id="12">Товары для взрослых</category>
+<category id="13">Продукты</category>
+</categories>
+<offers>
+<offer id="019e0dcf-c6c0-72e9-8b7c-a7e950aa2798" available="true">
+<name>Фемигиал: увлажняющий гель для интимной гигиены с гиалуроновой кислотой и алоэ</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/gel-intimnyiy-uvlajnyayshchiiy-femigial-monodozy-45-g-7-sht-x-3-ed-100068</url>
+<price>1990</price>
+<oldprice>3590</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/20412565/6ltv6ndz2vhd68f4ththtwjlr4tpj6kt/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/2x4p5twt62jjd5wwtlfqfxxgpjqqxjgz/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/ck4rl9qchwmgngfkngz2ld99sjb8p7v2/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/99jlfnkb8q7g2lmrj2djl4rzpxq4xvhp/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/7xql2wjdr8d4s56c2q2sc4tkgzwnc7jw/orig</picture>
+<description>Гель Фемигил с гиалуроновой кислотой и экстрактом алоэ для увлажнения и восстановления интимной зоны. Натуральный состав без гормонов. Снимает сухость и дискомфорт. Подходит для чувствительной кожи. Производство в Тюмени по стандартам ISO.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">увлажнение, восстановление, от сухости</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">маме, аптечка, любимой</param>
+<param name="Повод">Диабет, 18+, для роддома</param>
+<param name="Упаковка">флакон, аппликаторы</param>
+<param name="Вес товара без упаковки (г)" unit="г">65</param>
+<param name="Объем товара" unit="мл">50</param>
+<param name="Срок годности">2 года</param>
+<param name="Комплектация">7 аппликаторов</param>
+<param name="Раздел меню">интимная гигиена</param>
+<param name="Состав">вода, глицерин, экстракт алоэ, комплекс аминокислот, ксантановая камедь, гиалуроновая кислота, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер декларации соответствия">ЕАЭС N RU Д-RU.РА03.В.51973/24</param>
+<param name="Дата регистрации сертификата/декларации">10.04.2024</param>
+<param name="Дата окончания действия сертификата/декларации">26.04.2028</param>
+<param name="is_checkout_enabled">true</param>
+<barcode>4673750185011</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>эксперт 3</vendorCode>
+</offer>
+<offer id="019caa71-e63b-72bc-b833-c3b4096f34e6" available="true">
+<name>Фемигиал: Интимный гель от сухости с гиалуроновой кислотой и алоэ, 50 мл</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/gel-intimnyiy-uvlajnyayshchiiy-femigial-50-ml-x-3-ed-100036</url>
+<price>1380</price>
+<oldprice>2580</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/19825297/22qzks64d7g8tmfk875ch4bw6rscp8pg/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/rzw5pgskgt8zkqrrrcsbtqmszv54cshr/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/l8zjfrflfr94w8ddgrrcvkf6bkq25bbg/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/qjksrpfcgc8758zvbhvfqgfnfnd776v6/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/2mrxrvz2sf46mgqbp59dxfwsnlhjzfwh/orig</picture>
+<description>Интимный гель «Фемигиал» с гиалуроновой кислотой и экстрактом алоэ. Увлажняет, снимает сухость и зуд. Натуральный состав без гормонов и отдушек. Подходит для чувствительной кожи. Эффективен при менопаузе, стрессе и после процедур.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">увлажнение, восстановление, от сухости</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">маме, аптечка, любимой</param>
+<param name="Повод">Диабет, 18+, для роддома</param>
+<param name="Упаковка">флакон, аппликаторы</param>
+<param name="Вес товара без упаковки (г)" unit="г">65</param>
+<param name="Объем товара" unit="мл">50</param>
+<param name="Срок годности">2 года</param>
+<param name="Аромат средства">без отдушки</param>
+<param name="Комплектация">флакон 50 мл - 1 шт, Инструкция 1 шт</param>
+<param name="Раздел меню">интимная гигиена</param>
+<param name="Состав">вода, глицерин, экстракт алоэ, комплекс аминокислот, ксантановая камедь, гиалуроновая кислота, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер сертификата соответствия">BY.70.06.01.001.R.001974.09.25</param>
+<param name="Дата регистрации сертификата/декларации">15.09.2025</param>
+<param name="is_checkout_enabled">true</param>
+<externalIds>
+<id source="yandex_market" value="5073299100"/>
+</externalIds>
+<barcode>4673750185004</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>флакон 3</vendorCode>
+</offer>
+<offer id="019b8384-5c5e-70f4-bdc3-c901c0ec6cca" available="true">
+<name>Интимный набор от сухости Фемигиал</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/intimnyiy-nabor-ot-suhosti-100018</url>
+<price>2290</price>
+<oldprice>4990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/stx9wszz6wmldn2wgdqkwhdcdrsg8cwq/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/98gbrww82m6rpgf5k9pscrgvp7dp9rmk/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/19708416/zhlhwpdbr9svd67599p9b8sl2rplknpn/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/99jlfnkb8q7g2lmrj2djl4rzpxq4xvhp/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/7xql2wjdr8d4s56c2q2sc4tkgzwnc7jw/orig</picture>
+<description>Гель для интимной гигиены идеально подходит женщинам и дувушкам, которые заботятся о своем здоровье. Негормональный крем бережно заботится о слизистой влагалища и вульвы женщин практически любого возраста, снимает зуд, жжение, дискомфорт. Фемигиал имеет уникальный состав. Гиалуронат натрия отвечает за усиленное увлажнение. Молочная кислота - основной метаболит, продуцируемый лактобактериями, обладает противовирусным и иммуномодулирующим действием, поддерживает естественный рН интимной области. Комплекс аминокислот - противомикробное действие, улучшает кровообращение в органах малого таза. Экстракт алоэ улучшает клеточный метаболизм, трофику и регенерацию тканей. Интимный гель Фемигиал имеет натуральный состав. Является прекрасным средством при дискомфорте в период менопаузы и климакса, восстанавливает микроповреждения после процедур омоложения влагалища, после химиотерапии, после полового акта, после родов, при приеме препаратов (контрацептивов, антибиотиков, антидепрессантов, антигистаминных, противогрибковых средств и др), после коронавирусной инфекции, после окончания менструации, при смене полового партнера или климата. Он не содержит латекса и не вызывает аллергических реакций.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">восстановление, заживление, омолаживание</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">коллеге - для нее, любимой, маме</param>
+<param name="Упаковка">картонная коробка</param>
+<param name="Вес товара без упаковки (г)" unit="г">0</param>
+<param name="Объем товара" unit="мл">300</param>
+<param name="Срок годности">24 мес</param>
+<param name="Аромат средства">без отдушки</param>
+<param name="Комплектация">флакон 50 мл 1 шт, аппликатор 5 мл 7 шт, гель мыло 200 мл 1 шт</param>
+<param name="Раздел меню">аптечная косметика</param>
+<param name="Состав">гиалуроновая кислота, молочная кислота, аминокислоты, экстракт алоэ, глицерин</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер декларации соответствия">ЕАЭС N RU Д-RU.РА03.В.51973/24</param>
+<param name="Дата регистрации сертификата/декларации">10.04.2024</param>
+<param name="Дата окончания действия сертификата/декларации">26.04.2028</param>
+<param name="is_checkout_enabled">true</param>
+<externalIds>
+<id source="wildberries" value="706258164"/>
+<id source="yandex_market" value="5073300793"/>
+</externalIds>
+<barcode>2047888709401</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>набор с мылом</vendorCode>
+</offer>
+<offer id="019b8384-5c51-7c05-a652-c6818c02218f" available="true">
+<name>Интимный гель от сухости Фемигиал</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/intimnyiy-gel-ot-suhosti-2-100021</url>
+<price>690</price>
+<oldprice>1290</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/nw4r72bv26zftbdmmnsvnz8mcsrkm5kn/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/rzw5pgskgt8zkqrrrcsbtqmszv54cshr/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/l8zjfrflfr94w8ddgrrcvkf6bkq25bbg/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/qjksrpfcgc8758zvbhvfqgfnfnd776v6/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/2mrxrvz2sf46mgqbp59dxfwsnlhjzfwh/orig</picture>
+<description>Гель для интимной гигиены идеально подходит для женщин, которые заботятся о своем здоровье, красоте и комфорте. Дарит быстрое и глубокое увлажнение, омолаживает кожу. Негормональный крем бережно заботится о слизистой влагалища и вульвы женщин практически любого возраста, снимает зуд, жжение, дискомфорт. Фемигиал Femigial – удобное, гипоаллергенное средство. Фемигиал имеет уникальный состав. Низкомолекулярная гиалуроновая кислота создает невидимый барьер, препятствующий испарению влаги. Гиалуронат натрия отвечает за усиленное увлажнение. Молочная кислота - основной метаболит, продуцируемый лактобактериями, обладает противовирусным и иммуномодулирующим действием, поддерживает естественный рН интимной области. Комплекс аминокислот — противомикробное действие, улучшает кровообращение в органах малого таза. Экстракт алоэ улучшает клеточный метаболизм, трофику и регенерацию тканей. Интимный гель Фемигиал имеет натуральный состав. Является прекрасным средством при дискомфорте в период менопаузы и климакса, восстанавливает микро повреждения после процедур омоложения влагалища, после химиотерапии, после полового акта, после родов, при приеме препаратов (контрацептивов, антибиотиков, антидепрессантов, антигистаминных, противогрибковых средств и др), после коронавирусной инфекции, после окончания менструации, при смене полового партнера или климата. Не содержит лекарственных веществ, гормонов, ГМО, не вызывает привыкания. Прозрачный, без красителей, без ароматизаторов.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">увлажнение, восстановление, от сухости</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">маме, аптечка, любимой</param>
+<param name="Повод">Диабет, 18+, для роддома</param>
+<param name="Упаковка">флакон, аппликаторы</param>
+<param name="Вес товара без упаковки (г)" unit="г">65</param>
+<param name="Объем товара" unit="мл">50</param>
+<param name="Срок годности">2 года</param>
+<param name="Аромат средства">без отдушки</param>
+<param name="Комплектация">флакон 50 мл - 1 шт, Инструкция 1 шт</param>
+<param name="Раздел меню">интимная гигиена</param>
+<param name="Состав">вода, глицерин, экстракт алоэ, комплекс аминокислот, ксантановая камедь, гиалуроновая кислота, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер сертификата соответствия">BY.70.06.01.001.R.001974.09.25</param>
+<param name="Дата регистрации сертификата/декларации">15.09.2025</param>
+<param name="is_checkout_enabled">true</param>
+<externalIds>
+<id source="wildberries" value="166694214"/>
+<id source="yandex_market" value="102255373026"/>
+</externalIds>
+<barcode>4673750185004</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>флакон</vendorCode>
+</offer>
+<offer id="019b8384-5c40-711e-856e-6b70ea8b54d3" available="true">
+<name>Гель интимный увлажняющий «Фемигиал» монодозы 4,5 г × 7 шт — с гиалуроновой кислотой и алоэ от сухости и для деликатного ухода</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/intimnyiy-gel-ot-suhosti-100020</url>
+<price>980</price>
+<oldprice>1790</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/tnk47cmgzflwz874qjv78czq56skbvr4/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/2x4p5twt62jjd5wwtlfqfxxgpjqqxjgz/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/ck4rl9qchwmgngfkngz2ld99sjb8p7v2/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/99jlfnkb8q7g2lmrj2djl4rzpxq4xvhp/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/7xql2wjdr8d4s56c2q2sc4tkgzwnc7jw/orig</picture>
+<description>Гель для интимной гигиены идеально подходит для женщин, которые заботятся о своем здоровье, красоте и комфорте. Дарит быстрое и глубокое увлажнение, омолаживает кожу. Негормональный крем бережно заботится о слизистой влагалища и вульвы женщин практически любого возраста, снимает зуд, жжение, дискомфорт, устраняет неприятные ощущения во время полового акта. Фемигиал Femigial – удобное, гипоаллергенное средство для вашей яркой жизни. Фемигиал имеет уникальный состав. Низкомолекулярная гиалуроновая кислота создает невидимый барьер, препятствующий испарению влаги. Гиалуронат натрия отвечает за усиленное увлажнение. Молочная кислота - основной метаболит, продуцируемый лактобактериями, обладает противовирусным и иммуномодулирующим действием. Комплекс аминокислот — противомикробное действие, улучшает кровообращение в органах малого таза. Экстракт алоэ улучшает клеточный метаболизм, трофику и регенерацию тканей. Интимный гель Фемигиал имеет натуральный состав. Является прекрасным средством при дискомфорте в период менопаузы и климакса, восстанавливает микро повреждения после процедур омоложения влагалища, после химиотерапии, после полового акта, после родов, при приеме препаратов (контрацептивов, антибиотиков, антидепрессантов, антигистаминных, противогрибковых средств и др), после коронавирусной инфекции, после окончания менструации, при смене полового партнера или климата. Гель можно использовать как смазку для увлажнения интимной зоны. Он не содержит латекса и не вызывает аллергических реакций. Не содержит лекарственных веществ, гормонов, ГМО, не вызывает привыкания. Прозрачный, без красителей, без ароматизаторов.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">увлажнение, восстановление, от сухости</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">маме, аптечка, любимой</param>
+<param name="Повод">Диабет, 18+, для роддома</param>
+<param name="Упаковка">флакон, аппликаторы</param>
+<param name="Вес товара без упаковки (г)" unit="г">65</param>
+<param name="Объем товара" unit="мл">50</param>
+<param name="Срок годности">2 года</param>
+<param name="Комплектация">7 аппликаторов</param>
+<param name="Раздел меню">интимная гигиена</param>
+<param name="Состав">вода, глицерин, экстракт алоэ, комплекс аминокислот, ксантановая камедь, гиалуроновая кислота, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер декларации соответствия">ЕАЭС N RU Д-RU.РА03.В.51973/24</param>
+<param name="Дата регистрации сертификата/декларации">10.04.2024</param>
+<param name="Дата окончания действия сертификата/декларации">26.04.2028</param>
+<param name="is_checkout_enabled">true</param>
+<externalIds>
+<id source="wildberries" value="174036365"/>
+<id source="yandex_market" value="102255938740"/>
+</externalIds>
+<barcode>4673750185011</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>эксперт</vendorCode>
+</offer>
+<offer id="019e1293-551a-7b3f-b51c-5a592446d684" available="true">
+<name>Гель для интимной гигиены Фемигиал от зуда и раздражения, 200 мл</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/gel-dlya-intimnoiy-gigieny-ot-zuda-i-razdrajeniya-femigial-200-ml-100069</url>
+<price>1790</price>
+<oldprice>3290</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/20459843/bvlqw4dgncnff4mjfbltccrgjgxf2kqj/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/7ktjh5f9k8mvqzsb55n68zfgzkd66knp/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/fbgtkp54kcx8bn6jm97gtpsr69249jw9/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/shqwl2qq6qstbpxtwrkxpz7cghvd8m74/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/ngh2m9mhgrxcrmj88d9rrsvtmsdsfwmw/orig</picture>
+<description>Гель для интимной гигиены Фемигиал с комплексом аминокислот и эфирными маслами. Увлажняет, ускоряет регенерацию, защищает слизистую. Без сульфатов, красителей и отдушек. Подходит для чувствительной кожи и ежедневного использования.</description>
+<param name="Размер">0</param>
+<param name="Действие">антибактериальное, восстановление, заживление</param>
+<param name="Назначение косметического средства">для ванн и душа</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">коллеге - для нее, любимой, маме</param>
+<param name="Повод">`Новый год, 8 марта</param>
+<param name="Упаковка">флакон</param>
+<param name="Вес товара без упаковки (г)" unit="г">255</param>
+<param name="Объем товара" unit="мл">200</param>
+<param name="Срок годности">24 мес</param>
+<param name="Аромат средства">без отдушки</param>
+<param name="Комплектация">Мыло - 1 флакон</param>
+<param name="Раздел меню">органическая косметика</param>
+<param name="Состав">Вода, глицерин, лауроилглутамат натрия, лауреат 3, кокамидопропилбетаин, ПЭГ-7 глицерил кокоат, метилглюкозы диолеат, комплекс аминокислот, экстракт солодки голой, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат, эфирное масло иссопа, эфирное масло фенхеля (*гераниол, *линалоол, *лимонен)</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3401300000</param>
+<param name="Номер сертификата соответствия">KG.11.01.09.001.R.007019.11.25</param>
+<param name="Дата регистрации сертификата/декларации">14.11.2025</param>
+<param name="Дата окончания действия сертификата/декларации">14.11.2030</param>
+<param name="Полное наименование товара">Мыло гель для интимной гигиены Фемигиал</param>
+<param name="is_checkout_enabled">true</param>
+<barcode>2046726951989</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>гель мыло 3</vendorCode>
+</offer>
+<offer id="019b8384-5c58-707a-bf06-076b20e02da8" available="true">
+<name>Гель интимный увлажняющий «Фемигиал» 50 мл x 10 ед. — с гиалуроновой кислотой и алоэ от сухости и для деликатного ухода</name>
+<url>https://femigial_seo.dev.yastore.yandex.ru/products/intimnyiy-gel-ot-suhosti-6-100017</url>
+<price>4990</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<typePrefix>Гели</typePrefix>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/j9jz5zf8dwtltjp4cz4jz77xdj76wvxk/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17741623/9k4g2c85mn7mmlwlwmtxcwxw9b424dhc/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/17664496/rzw5pgskgt8zkqrrrcsbtqmszv54cshr/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/l8zjfrflfr94w8ddgrrcvkf6bkq25bbg/orig</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18127720/qjksrpfcgc8758zvbhvfqgfnfnd776v6/orig</picture>
+<description>Гель интимный увлажняющий «Фемигиал» 50 мл x 10 ед. с гиалуроновой кислотой и экстрактом алоэ помогает устранить сухость, поддерживает увлажнение, способствует регенерации и создает защитный барьер для ежедневного комфорта и деликатного ухода.</description>
+<param name="Размер">0</param>
+<param name="Тип кожи">для всех типов кожи</param>
+<param name="Действие">увлажнение, восстановление, от сухости</param>
+<param name="Назначение косметического средства">интимная гигиена</param>
+<param name="Форма упаковки">без давления</param>
+<param name="Назначение подарка">маме, аптечка, любимой</param>
+<param name="Повод">Диабет, 18+, для роддома</param>
+<param name="Упаковка">флакон, аппликаторы</param>
+<param name="Вес товара без упаковки (г)" unit="г">650</param>
+<param name="Объем товара" unit="мл">500</param>
+<param name="Срок годности">2 года</param>
+<param name="Аромат средства">без отдушки</param>
+<param name="Комплектация">Флаконы 50 мл - 10 шт</param>
+<param name="Раздел меню">интимная гигиена</param>
+<param name="Состав">вода, глицерин, экстракт алоэ, комплекс аминокислот, ксантановая камедь, гиалуроновая кислота, молочная кислота, метил-4-гидроксибензоат, пропил-4-гидроксибензоат</param>
+<param name="Страна производства">Россия</param>
+<param name="ТНВЭД">3304990000</param>
+<param name="Номер декларации соответствия">ЕАЭС N RU Д-RU.РА03.В.51973/24</param>
+<param name="Дата регистрации сертификата/декларации">10.04.2024</param>
+<param name="Дата окончания действия сертификата/декларации">26.04.2028</param>
+<param name="is_checkout_enabled">true</param>
+<externalIds>
+<id source="wildberries" value="663051634"/>
+</externalIds>
+<barcode>2047552947573</barcode>
+<vendor>Фемигиал</vendor>
+<vendorCode>фемиг 10</vendorCode>
+</offer>
+</offers>
+<delivery>true</delivery>
+</shop>
+</yml_catalog>
